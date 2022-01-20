@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Copyright (C) 2022 Samir OUCHENE, samirmath01@gmail.com
+
+
 import random
 import inkex
 from lxml import etree
