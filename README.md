@@ -21,6 +21,8 @@ git clone git@github.com:s1291/randomSelectionProperty.git
 
 # How to use
 
+* Convert your objects to path: Select all your objects then: **Object** > **Object to path** (or `Shift` + `Ctrl` + `C`)
+
 **Extensions** > **Modify Path** > **Batch property random selection**
 
 See below:
