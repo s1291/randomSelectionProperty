@@ -13,8 +13,6 @@ cd $HOME/.config/inkscape/extensions
 git clone git@github.com:s1291/randomSelectionProperty.git
 ```
 
-* Open Inkscape (if it is already open, close then re-open it) and you should find the extension under: **Extensions** > **Raster Perspective** > **Perspective**
-
 ## On Windows:
 
 * Download the most recent version (direct link: [zip](https://github.com/s1291/randomSelectionProperty/archive/refs/heads/master.zip))
