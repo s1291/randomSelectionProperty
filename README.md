@@ -4,6 +4,8 @@ Randomly select a number of objects and change their properties (currently only 
 
 # Installation:
 
+> (the extension is tested using Inkscape 1.1.1 and 1.2-dev on Ubuntu 20.04.3) 
+
 ## On Linux:
 
 ```
