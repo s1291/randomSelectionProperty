@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+<_name>Batch property random selection</_name>
+	<id>org.test.filter.hello</id>
+	<dependency type="executable" location="extensions">random_selection.py</dependency>
+	<param name="property" type="optiongroup" gui-text="Property to modify:" appearance="combo" >
+		<option name="width">width</option>
+		<option name="height">height</option>
+
+	</param>
+    <param name="value" type="string" gui-text="value of property:">10</param>
+    <param name="howMany" type="int" gui-text="How many random object to affect:">10</param>
+    <effect needs-live-preview="true">
+        <object-type>all</object-type>
+		<effects-menu>
+			<submenu name="Modify Path" />
+		</effects-menu>
+	</effect>
+	<script>
+		<command location="inx" interpreter="python">random_selection.py</command>
+	</script>
+</inkscape-extension>
