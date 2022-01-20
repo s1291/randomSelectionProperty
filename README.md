@@ -8,7 +8,7 @@ Randomly select a number of objects and change their properties (currently only 
 
 ```
 cd $HOME/.config/inkscape/extensions
-git@github.com:s1291/randomSelectionProperty.git
+git clone git@github.com:s1291/randomSelectionProperty.git
 ```
 
 * Open Inkscape (if it is already open, close then re-open it) and you should find the extension under: **Extensions** > **Raster Perspective** > **Perspective**
