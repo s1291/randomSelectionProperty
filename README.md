@@ -30,6 +30,6 @@ See below:
 ![How to use the extension](imgs/howto.gif)
 
 # Author
-Samir OUCHENE, 2021-2022
+Samir OUCHENE, 2021-2024
 
 All code is licensed under the GNU General Public License version 3. See [the license file](https://github.com/s1291/randomSelectionProperty/blob/master/LICENSE) for details.
